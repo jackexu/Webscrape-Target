@@ -9,4 +9,6 @@ If you have multi stores nearby, and you want to select one of them - either inp
 
 You can run this one in Cloud (Google Cloud, AWS, Azure, etc) and write a function to send your an email whenever it is in stock. 
 
+Or you can use the `email_function` in this repo - **_MAKE SURE_** you remove your password before show/send to others
+
 Set the time to 300 seconds or whatever you want.
